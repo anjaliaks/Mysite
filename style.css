@@ -5,8 +5,7 @@ h1, h2, h3 {
 
 h{
   font-weight: bolder;
-  font-size: 1.2rem;
-   color: #fff;
+  font-size: 1.5rem;
 }
 body {
   font-family: "Montserrat";
@@ -160,7 +159,7 @@ p {
 
 
 .p {
-  color: black;
+  color: #fff;
 }
 
 /* responsive */

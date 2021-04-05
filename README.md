@@ -1,5 +1,5 @@
 # mysite
-This is my personal site 
+This is my lil identity site.
 
 # Tech stack used
 HTML, CSS and Bootstrap.

@@ -5,7 +5,12 @@
 	padding: 0; 
 }
 
+h{
+	font-weight: bold;
+	color: lightgray;
+}
 
+	
 
 body {
 	line-height: 1;
